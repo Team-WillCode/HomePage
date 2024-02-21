@@ -1,2 +1,2 @@
 # Homepage
-for showing us
+for creating our page
